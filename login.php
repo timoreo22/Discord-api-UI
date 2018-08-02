@@ -1,6 +1,9 @@
 <!DOCTYPE html>
 <html>
-  <body>
+<head>
+	<title>TitelingIn!</title>
+</head>
+<body>
 <?php
   if(isset($_GET['code'])){
   
@@ -8,6 +11,7 @@
   echo 'Be set !' ;
   }
 
+
 ?>
-  </body>
+</body>
 </html>
