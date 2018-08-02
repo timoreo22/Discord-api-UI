@@ -1,3 +1,6 @@
+<!DOCTYPE html>
+<html>
+  <body>
 <?php
   if(isset($_GET['code'])){
   
@@ -5,5 +8,6 @@
   echo 'Be set !' ;
   }
 
-
 ?>
+  </body>
+</html>
